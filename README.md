@@ -1,5 +1,6 @@
 # Python
-
+All credits goes to https://github.com/charlesartbr/hackerrank-python
+Here, I simply link the solutions to the problem page to make them easier to read.
 ![Python](https://raw.githubusercontent.com/charlesartbr/hackerrank-python/master/badges/python.png?s=5)
 
 ### **115** challenges solved:
